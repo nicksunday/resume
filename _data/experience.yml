@@ -1,19 +1,15 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Rackspace Hosting, Inc.
+  position: DevOps Engineer II
+  duration:   Jun, 2019  &mdash; Present
+  summary: <ul class="resume-item-list"><li>Managed multiple Kubernetes clusters across multiple Google projects using Google Kubernetes Engine and Helm</li><li>Created CI/CD pipelines using Google Cloud Builds</li><li>Developed custom Docker images</li><li>Wrote scripts to make repetitive tasks easier to reproduce</li><li>Worked closely with multiple teams of geographically separated software developers to implement platform changes or deploy code changes</li><li>Participated in an on-call rotation to support business critical systems</li>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Rackspace Hosting, Inc.
+  position: DevOps Engineer I/II
+  duration:   April, 2015  &mdash; February, 2019
+  summary: <ul class="resume-item-list"><li>Maintained fleet of geographically distributed, physical and virtual, Linux servers that served dozens of applications</li><li>Engaged in frequent efforts to update Linux packages for security and feature improvements</li><li>Led efforts to upgrade outdated Sensu-based monitoring system to a modern solution using Prometheus</li><li>Set up and configured a Grafana server to present metrics in an easier to digest format</li><li>Researched and implemented highly-available Hashicorp Consul cluster for use with Prometheus and Hashicorp Terraform</li><li>Took lead on automating Prometheus service discovery using Hashicorp Consul and Ansible</li><li>Configured Consul cluster to manage persistent Terraform state, allowing for better infrastructure coordination between Engineers </li><li>Created BASH script automation for use with vRealizeAutomation </li><li>Investigated and deployed highly-available pair of Hashicorp Vault servers</li><li>Developed Python command line tool for Vault </li><li>Gathered evidence for SOX and PCI compliance</li><li>Participated in on-call rotation and responded to afterhours alerts</li><li>Collaborated in the Change Management process </li><li>Learned the basics of Kubernetes in anticipation of migration to Kubernetes-based infrastructure</li><li>Designed Ansible playbooks to automate repetitive or difficult tasks</li><li>Handled administration and troubleshooting of small Splunk cluster</li>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Rackspace Hosting, Inc.
+  position: Linux Administrator
+  duration:   August, 2013  &mdash; April, 2015
+  summary: <ul class="resume-item-list"><li>Answered phone calls, chat messages, and tickets in order to assist customers</li><li>Trained new employees on common issues</li><li>Acted as an escalation point for newer or less experienced admins</li><li>Logged onto Xen hypervisors to troubleshoot virtualization issues</li><li>Liaised with senior techs to solve more complex virtualization issues above the skill-level of primary team</li>

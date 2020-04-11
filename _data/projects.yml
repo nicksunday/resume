@@ -1,16 +1,12 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
+- project: WGUPS
+  role: Student
+  duration: 2020
+  url: "https://github.com/nicksunday/WGUPS"
+  description: WGUPS was the name of the fictional package delivery company that needed a package delivery application written in Python with a command line interface to deliver a finite number of packages to their respective delivery locations.
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Inventory Management
+  role: Student
+  duration: 2020
+  url: "https://github.com/nicksunday/InventoryManagement"
+  description: A Java application with a graphical interface for managing inventory for a fictional company. The application stores both individual parts and also products that are made up of multiple parts. 
