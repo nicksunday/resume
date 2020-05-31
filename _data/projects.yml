@@ -1,4 +1,10 @@
 # Projects
+- project: Scheduling Software
+  role: Student
+  duration: 2020
+  url: "https://github.com/nicksunday/scheduling-software"
+  description: A Java application with a graphical interface for creating and managing appointments for a fictional company. The application uses a MySQL database to store appointment, customer, and user data as well as the correlation between the three.
+
 - project: WGUPS
   role: Student
   duration: 2020
