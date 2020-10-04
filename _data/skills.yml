@@ -1,3 +1,3 @@
 # Skills
 - skill: 
-  description: Google Cloud Platform (GCP), Google Kubernetes Engine (GKE), Kubernetes, Helm, Docker, Ansible, Linux, CentOS, RHEL, Ubuntu, Jenkins, Prometheus, GitHub, Git, BASH, Python, Terraform, Consul, Vault, VMware, vRealizeAutomatiom, LDAP, AWX, MySQL, MariaDB, PostgreSQL, Ansible Tower, Rackspace Public Cloud, Splunk, Grafana, RabbitMQ, HAProxy, Spinnaker, Gcloud SDK, PagerDuty, VictorOps, Chef, Amazon Web Services (AWS)
+  description: Google Cloud Platform, GKE, Kubernetes, Helm, Docker, Ansible, Linux, CentOS, RHEL, Ubuntu, Jenkins, Elasticsearch, Fluentd, Kibana, Prometheus, GitHub, Git, BASH, Python, Java, Terraform, Consul, Vault, VMware, vRealizeAutomatiom, LDAP, AWX, Oracle SQL, MySQL, MariaDB, PostgreSQL, Ansible Tower, Rackspace Public Cloud, Splunk, Grafana, RabbitMQ, HAProxy, Spinnaker, Gcloud SDK, PagerDuty, VictorOps, Chef, Linkerd, Amazon Web Services (AWS)

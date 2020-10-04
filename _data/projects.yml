@@ -1,4 +1,22 @@
 # Projects
+- project: Game Finder
+  role: Student
+  duration: 2020
+  url: "https://github.com/nicksunday/gamefinder"
+  description: Currently lives at https://suggest.games. A website using Python and Django that has a search function that helps users find board games to play. 
+
+- project: Career Advisor Bot
+  role: Student
+  duration: 2020
+  url: "https://github.com/nicksunday/Career-Advisor-Bot"
+  description: A simple branching logic chatbot that can suggest a career for you based upon your academic interests. Written in AIML for use with pandorabots.com chatbot interface.
+
+- project: H-E-B Curbside Pickup Availability Checker
+  role: Self Learning / Side Project
+  duration: 2020
+  url: https://github.com/nicksunday/heb-curbside-availability-checker
+  description: At the beginning of the pandemic it was difficult to find available time slots for curbside pickup of groceries. I created this command line tool to query HEB's API and get results from multiple nearby grocery stores.
+
 - project: Scheduling Software
   role: Student
   duration: 2020
